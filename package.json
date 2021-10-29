@@ -1,9 +1,11 @@
 {
   "dependencies": {
     "expo": "~42.0.0",
+    "expo-sensors": "~10.2.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-svg": "12.1.1",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
